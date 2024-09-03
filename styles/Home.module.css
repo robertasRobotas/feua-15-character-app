@@ -26,3 +26,14 @@
   flex-direction: column;
   gap: 0.6rem;
 }
+
+.righSideWrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.buyBtn {
+  padding: 1rem;
+  cursor: pointer;
+}
